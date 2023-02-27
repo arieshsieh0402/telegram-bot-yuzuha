@@ -1,0 +1,5 @@
+# VScode setting folder
+.vscode/
+
+# config file
+config.json
